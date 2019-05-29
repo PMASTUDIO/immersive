@@ -10,7 +10,7 @@ permalink: /ide-para-cpp/
 slide_template:
   - ""
 categories:
-  - C++
+  - CPP
 ---
 ### Introdução
 

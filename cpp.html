@@ -4,10 +4,11 @@ layout: default
 
 <div class="home">
  
+    <h2>C++</h2>
   
     <div class="row pack">
-
-        {% for post in paginator.posts %}   
+      
+        {% for post in site.categories.CPP %}   
             <div class="col-md-4 card">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
                 <div class="panel panel-default">
@@ -23,7 +24,7 @@ layout: default
                   </div>
                   
                   <div class="panel-body"><small>
-                    {{ post.categories }} - {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
                   </div>
                 </div>
                 </a>

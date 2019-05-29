@@ -10,7 +10,7 @@ permalink: /comentarios-em-cpp/
 slide_template:
   - ""
 categories:
-  - C++
+  - CPP
 tags:
   - bom c++
   - c++

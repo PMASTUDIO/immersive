@@ -10,7 +10,7 @@ permalink: /cpp-a-linguagem/
 slide_template:
   - ""
 categories:
-  - C++
+  - CPP
   - Programação para Iniciantes
 tags:
   - c++

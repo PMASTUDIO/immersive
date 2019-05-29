@@ -16,7 +16,7 @@ enclosure:
     video/mp4
     
 categories:
-  - C++
+  - CPP
 tags:
   - c++
   - hello world

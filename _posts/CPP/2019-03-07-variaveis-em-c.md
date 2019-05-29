@@ -10,7 +10,7 @@ permalink: /variaveis-em-c/
 slide_template:
   - ""
 categories:
-  - C++
+  - CPP
 ---
 ### Introdução
 
